@@ -71,7 +71,6 @@ type CallAPI' m res res' =
   ( HasCallStack,
     Metrics.CoreMetrics m,
     MonadFlow m,
-    ET.JSONEx res,
     ToJSON res
   ) =>
   BaseUrl ->
