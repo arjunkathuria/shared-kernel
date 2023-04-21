@@ -366,7 +366,7 @@ library
     , cryptonite
     , data-default-class
     , deriving-aeson
-    , dhall <=1.35.0
+    , dhall
     , double-conversion
     , either
     , esqueleto
@@ -434,7 +434,7 @@ library
     , time
     , tinylog
     , transformers
-    , universum <1.8
+    , universum
     , unix
     , unliftio
     , unliftio-core
@@ -518,7 +518,7 @@ test-suite mobility-core-tests
     , cryptonite
     , data-default-class
     , deriving-aeson
-    , dhall <=1.35.0
+    , dhall
     , double-conversion
     , either
     , esqueleto
@@ -587,7 +587,7 @@ test-suite mobility-core-tests
     , time
     , tinylog
     , transformers
-    , universum <1.8
+    , universum
     , unix
     , unliftio
     , unliftio-core
