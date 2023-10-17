@@ -214,11 +214,11 @@
         "treefmt-nix": "treefmt-nix"
       },
       "locked": {
-        "lastModified": 1696580690,
-        "narHash": "sha256-6NsQIqnyYcOL1UVnNbptgssiQkU5ASVR4M0M4+MO7Jo=",
+        "lastModified": 1697529152,
+        "narHash": "sha256-zh4d4ic53io60fHC1gMvQaVcSTJ42mSW6sQJ2STVgJg=",
         "owner": "arjunkathuria",
         "repo": "common",
-        "rev": "fb68c68fcbc6d87c346786befc203b4b71521f64",
+        "rev": "90fc38c398503e0452e42a499fb78c17dd540a5c",
         "type": "github"
       },
       "original": {
